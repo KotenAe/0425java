@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e412ebf0","path":"/tags/lianjiechi/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

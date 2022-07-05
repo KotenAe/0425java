@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3264b024","path":"/tags/wangluobiancheng/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
